@@ -9,10 +9,9 @@
 
 
 
-- 🔭 I’m currently working on Mini Ultrasonic-guided car 
-- 🌱 I’m currently learning react-native, google cloud, algorithms, machine learning
+- 🌱 I’m currently learning a low latency auctioning platform 
 - 👯 I’m looking to collaborate on a multiplayer game, or a large scale open source project
-- 💬 Ask me about my personal assistant and goal tracking app
+- 💬 Ask me about my Mini Ultrasonic-guided car 
 - 📫 How to reach me:  kmita111@gmail.com
 - ⚡ Fun fact: I love to rock out on guitar
 
