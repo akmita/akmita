@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently working on a live F1 telemetry analysis 
+- 🌱 I’m currently working on a live F1 telemetry visualization project 
 - 💬 Ask me about my Mini Ultrasonic-guided car project 
 - 📫 How to reach me:  kmita111@gmail.com
 - ⚡ Fun fact: I love to rock out on guitar
