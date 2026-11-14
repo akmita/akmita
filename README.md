@@ -9,8 +9,7 @@
 
 
 
-- 🌱 I’m currently learning a low latency auctioning platform 
-- 👯 I’m looking to collaborate on a multiplayer game, or a large scale open source project
+- 🌱 I’m currently working on a live F1 telemetry analysis 
 - 💬 Ask me about my Mini Ultrasonic-guided car 
 - 📫 How to reach me:  kmita111@gmail.com
 - ⚡ Fun fact: I love to rock out on guitar
